@@ -11,7 +11,6 @@ a:hover {
   color: yellow;
 }
 
-/* First second-navbar */
 .first-nav {
   background-color: #02082b;
   color: white;
@@ -365,7 +364,7 @@ a:hover {
     to right,
     #fff,
     #fdf2e9
-  ); /* Gradient background */
+  ); 
   padding: 20px 0;
   color: #333;
   font-size: 14px;
@@ -401,7 +400,7 @@ a:hover {
 }
 
 .footer-nav a:hover {
-  color: #f57c00; /* Highlight color on hover */
+  color: #f57c00; 
 }
 
 .footer-social a {
